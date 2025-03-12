@@ -2,11 +2,11 @@ In this notebook, I present my first data analysis project, exploring COVID-19 d
 
 Key topics covered:
 
-Data integration from multiple sources (CSV and SQLite databases)
-Handling and imputing missing data effectively
-Calculation and analysis of cumulative and daily COVID-19 cases and deaths
-Exploration of discrepancies between reported cases and deaths at city versus state levels
-Creation of geographical visualizations using GeoPandas and Matplotlib
-Visualization of temporal trends with scatter plots and connected line charts
-Calculation and interpretation of mortality and lethality metrics
-Analysis of moving averages to identify trends in mortality rates
+* Data integration from multiple sources (CSV and SQLite databases)
+* Handling and imputing missing data effectively
+* Calculation and analysis of cumulative and daily COVID-19 cases and deaths
+* Exploration of discrepancies between reported cases and deaths at city versus state levels
+* Creation of geographical visualizations using GeoPandas and Matplotlib
+* Visualization of temporal trends with scatter plots and connected line charts
+* Calculation and interpretation of mortality and lethality metrics
+* Analysis of moving averages to identify trends in mortality rates
